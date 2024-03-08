@@ -1,0 +1,1 @@
+print(f"Se quiser sim manorr")
